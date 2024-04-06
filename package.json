@@ -1,0 +1,26 @@
+{
+  "name": "qp-assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Subratlitu/qp-assessment.git"
+  },
+  "author": "Subrat nayak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Subratlitu/qp-assessment/issues"
+  },
+  "homepage": "https://github.com/Subratlitu/qp-assessment#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "mysql2": "^3.9.3",
+    "nodemon": "^3.1.0"
+  }
+}
